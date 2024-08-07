@@ -1,5 +1,3 @@
-<div align="center">
-  
 # Temporal Token Merging for Efficient Text-Video Retrieval
   
 #### MSRVTT
