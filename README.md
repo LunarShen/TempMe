@@ -1,4 +1,4 @@
-# Temporal Token Merging for Efficient Text-Video Retrieval
+# TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval
   
 #### MSRVTT
 For MSRVTT, the official data and video links can be found in [link](http://ms-multimedia-challenge.com/2017/dataset).
