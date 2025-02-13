@@ -1,4 +1,4 @@
-# TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval
+# [ICLR 2025 🔥] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval
   
 #### MSRVTT
 For MSRVTT, the official data and video links can be found in [link](http://ms-multimedia-challenge.com/2017/dataset).
@@ -17,7 +17,7 @@ wget https://www.robots.ox.ac.uk/~maxbain/frozen-in-time/data/MSRVTT.zip
 
 ###  Train on MSR-VTT
 
-We conduct experiments on 4 A100 GPUs, in 2.2.0+cu118 Pytorch.
+We conduct experiments on 4 A100x40G GPUs on MSR-VTT, in 2.2.0+cu118 Pytorch.
 
 ```shell
 bash scripts/MSRVTT.sh
